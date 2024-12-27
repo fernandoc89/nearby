@@ -32,6 +32,7 @@ export const s = StyleSheet.create({
     fontSize: 12,
     fontFamily: fontFamily.regular,
     color: colors.gray[500],
+    marginRight: 20
   },
   footer: {
     flexDirection: "row",
